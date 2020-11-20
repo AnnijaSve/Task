@@ -1,5 +1,4 @@
 {
-    "name": "kem4/codelex",
     "autoload": {
         "psr-4": {
             "App\\": "app/"
