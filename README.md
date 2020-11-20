@@ -1,5 +1,5 @@
 ```
-1. git pull https://github.com/AnnijaSve/Task.git
+1. git clone https://github.com/AnnijaSve/Task.git
 2. composer install
 3. copy .env.example to .env
 4. fill in .env with your configuration values
