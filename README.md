@@ -4,6 +4,6 @@
 3. copy .env.example to .env
 4. fill in .env with your configuration values
 5. create new database
-6. import sql/db.sql into your database
+6. import sql/Users.sql and product.sql into your database
 7. php -S localhost:8000
 ```
