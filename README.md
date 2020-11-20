@@ -1,5 +1,5 @@
 
-<p>https://github.com/AnnijaSve/Task.git<?p>
+https://github.com/AnnijaSve/Task.git
 composer install
 copy .env.example to .env
 fill in .env with your configuration values
